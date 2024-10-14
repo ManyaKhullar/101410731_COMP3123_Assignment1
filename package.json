@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Roda152/comp3123_assignemt.git"
+    "url": "https://github.com/ManyaKhullar/101410731_COMP3123_Assignment1.git"
   },
   "keywords": [
     "nodejs",
@@ -18,12 +18,12 @@
     "backend",
     "API"
   ],
-  "author": "Roda Issa",
+  "author": "Manya Khullar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Roda152/comp3123_assignemt/issues"
+    "url": "https://github.com/ManyaKhullar/101410731_COMP3123_Assignment1.git"
   },
-  "homepage": "https://github.com/Roda152/comp3123_assignemt#readme",
+  "homepage": "https://github.com/ManyaKhullar/101410731_COMP3123_Assignment1/blob/main/README.md",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
